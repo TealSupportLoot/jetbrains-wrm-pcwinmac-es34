@@ -1,4 +1,4 @@
-# 
+# Premium JetBrains WebStorm extensões para Mac OS | Código aberto JetBrains WebStorm extensões para PC Windows. Com realce de sintaxe e construtor de imagens — otimizado para máximo desempenho em cada plataforma.
 
 
 
